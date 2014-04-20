@@ -9,7 +9,7 @@
  *  actions. The end goal is to add the TV as an actual Device on your Things page, but I haven't
  *  yet been able to figure out how to make LAN calls from a device (simple enough to do from an app).
  *
- *  PLEASE NOTE: This has only been tested on a Samsung C-Series TV. It may or may not work for you. Also,
+ *  PLEASE NOTE: This has only been tested on a Samsung UN50EH5300 TV. It may or may not work for you. Also,
  *  you will need to know your device's IP and MAC Address. This information should be viewable from your
  *  TV under Menu > Network > Network Status.
  */
